@@ -1,0 +1,1 @@
+This repository demonstrates a common yet subtle bug in React Router Dom v6 involving route path matching.  The bug arises from unexpected route matching, particularly when dealing with route parameters. The solution showcases how to resolve the issue by carefully defining routes with parameter handling and ensuring no overlapping paths causing unintended matches. 
